@@ -1,0 +1,30 @@
+body {
+	background-color: #808080;}
+h1 {
+	margin-left: 4%;}
+div {
+  width: 1000px;
+  background-color: #FFFFFF;
+  margin: auto;}
+.photo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 50%;}
+.ring {
+	list-style-type: circle;
+	margin-left: 1.6%;}
+.name {
+	text-align: center;
+	border: none; 
+    background-color: red; 
+    height: 2px;   }
+.line {
+	width: 100px;
+	height: 1px;
+	background-color: #000;
+	margin-bottom: 5%;
+	white-space: nowrap;}	
+.text {
+	margin-left: 2.9%;}
