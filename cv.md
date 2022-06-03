@@ -37,3 +37,4 @@ I am currently study at Duolinguo to improve my language skills.
 
 ## Education:
 * 2016 BSUIR
+* 2014 TK GRSU
