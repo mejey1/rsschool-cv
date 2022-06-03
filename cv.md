@@ -10,6 +10,7 @@ Molodechno, Belarus
 ## Contact Information:
 * Discord: mejey#3978
 * Telegram: mejey1
+* Tel: +375297842211
 * E-mail: mejey1@gmail.com
 * GitHub: [mejey1](https://github.com/mejey1/rsschool-cv) 
 
