@@ -119,6 +119,25 @@ img {
     width: 32px;
     
 }
+#skills {
+    color: white;
+    background-color: black;
+    list-style: none;
+     display: block;
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     font-size: 32px;
+     width: 500px;
+     max-width: 100%;
+}
+.skillLevel {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
 @font-face {
     font-family: "Inter"; 
     src: url("../fonts/Inter.ttf") format("truetype"); 
