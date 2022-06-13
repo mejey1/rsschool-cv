@@ -109,21 +109,21 @@ img {
     max-width: 500px;
 
     }
-#idIcon {
+.idIcon {
     font-size: 14px;
     list-style: none;
     margin-left: auto;
     margin-right: auto;
         }
-#idIcon a{
+.idIcon a{
             text-decoration: none;
             color: black;
         }
-#idIcon a:hover {
+.idIcon a:hover {
             text-decoration: underline;
         }        
         
-#icosvg {
+.icosvg {
     width: 32px;
     
 }
@@ -209,6 +209,37 @@ img {
 }
 #enText {
     text-align: center;
+}
+#education {
+    color: white;
+    background-color: black;
+    list-style: none;
+     display: block;
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     font-size: 32px;
+     width: 500px;
+     max-width: 100%;  
+}
+#educationText {
+    text-align: center;
+}
+#footer {
+    list-style: none;
+    background: gray;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    
+}
+#footer img {
+    width: 128px;
+
 }
 @font-face {
     font-family: "Inter"; 
